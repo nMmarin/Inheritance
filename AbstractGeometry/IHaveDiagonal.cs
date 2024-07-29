@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractGeometry
 {
-    interface IHaveDiagonal
-    {
-        double GetDiagonal();
-    }
+	interface IHaveDiagonal
+	{
+		double GetDiagonal();
+	}
 }

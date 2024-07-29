@@ -57,6 +57,7 @@ namespace Academy
 			base.Init(values);
 			Speciality = values[4];
 			Experience = Convert.ToInt32(values[5]);
+
 		}
 	}
 }

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractGeometry
 {
-    interface IDrawAble
-    {
-        void Draw(System.Windows.Forms.PaintEventArgs e);
-    }
+	interface IDrawable
+	{
+		void Draw(System.Windows.Forms.PaintEventArgs e);
+	}
 }

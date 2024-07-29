@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractGeometry
 {
-    interface IHaveDiameter
-    {
-        double GetDiameter();
-    }
+	interface IHaveDiameter
+	{
+		double GetDiameter();
+	}
 }
